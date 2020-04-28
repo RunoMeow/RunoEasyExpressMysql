@@ -1,0 +1,21 @@
+{
+  "name": "runo-easy-express-mysql",
+  "version": "1.0.0",
+  "description": "#### 介绍 露诺的nodejs-express简单连mysql的自用小框架",
+  "main": "main.js",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitee.com/runomeow/RunoEasyExpressMysql.git"
+  },
+  "author": "",
+  "license": "ISC"
+}

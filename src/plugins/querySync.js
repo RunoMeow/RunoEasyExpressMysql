@@ -1,0 +1,1 @@
+module.exports = (dbConn) => (query) => new Promise((res, rej) => dbConn.query(query, (error, result, fields) => error ? rej(error) : res(result)))
